@@ -105,12 +105,6 @@ Every release, open-source SDK, and security advisory follows a two-channel comm
 - Organize local vulnerability research meetups, live exploit breakdown sessions, and practical application security workshops.
 - Connect bug bounty hunters, security engineers, and developers to share actual threat data and practical defensive code.
 
-### 📍 IoT Security Head  
-**[MRISA: Manav Rachna InfoSec Army]** · `Aug 2024 - Present`  
-- Lead embedded device firmware dissection and wireless hardware hackathons. Mentor junior analysts in practical firmware dumping and protocol analysis.
-- Build infrastructure and custom challenge networks for university Capture The Flag competitions running with over 700 active players.
-- Run technical workshops that walk through practical exploit mechanics across standard web and network attack vectors.
-
 <br/>
 
 ---
